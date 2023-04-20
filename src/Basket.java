@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface Basket {
+public interface Basket {
+
+     void displayBasket();
+     void addFoodToBasket(int menuItem);
+
+
 }
